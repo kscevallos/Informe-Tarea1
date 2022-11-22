@@ -1,4 +1,4 @@
-# Informe-Tarea1
+# Informe-Tarea2
 1.	Objetivos
 
 1.1.	Objetivo General 
