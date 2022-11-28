@@ -382,9 +382,11 @@ Se cumple que el valor de salida es menor al valor de entrada
 
 4. VIDEO
 
+https://youtu.be/pJMiWXOOxbY
+
 5. Conclusiones
 
-6. Bibliografía
+Mediante la lectura y la práctica se puede llegar a connocer la importancia de saber calcular la potencia o la eficiencia de varias cosas, aprenderse las fórmulas es algo muy importante de esa manera al analizar algún problema podemos llegar de forma más rápida a la respuesta.
 
 
 
