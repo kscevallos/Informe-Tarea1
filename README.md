@@ -380,6 +380,12 @@ Psalida= 5x0.85 = 4.25W
 
 Se cumple que el valor de salida es menor al valor de entrada
 
+4. VIDEO
+
+5. Conclusiones
+
+6. Bibliografía
+
 
 
 
