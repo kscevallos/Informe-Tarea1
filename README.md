@@ -7,6 +7,10 @@ Aprender y aplicar la ley de ohm en ejercicios planteados a partir del voltaje, 
 
 1.2.	Objetivos Específicos
 
+Definir los términos energía y potencia para reconocer y realizar ejercicios respecto a lo visto.
+
+Comprobar el funcionamiento del circuito de manera experimental y teórica mediante el uso de las leyes de ohm y Watt.
+
 2.	Marco Teórico
 
 ![image](https://user-images.githubusercontent.com/116834366/202501311-854a6d4c-42b6-4953-88d6-f87448b74e00.png)
